@@ -1,0 +1,88 @@
+<svg id="Color" xmlns="http://www.w3.org/2000/svg" width="269.5" height="99.5" viewBox="0 0 269.5 99.5">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        font-size: 27.785px;
+        font-family: PMingLiU;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #fff;
+        text-anchor: middle;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: 1px;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        font-size: 24.38px;
+        font-family: MYuenHK;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Content">
+    <g id="main">
+      <circle id="橢圓_2" data-name="橢圓 2" class="cls-1" cx="41.453" cy="66.785" r="14.641"/>
+      <text id="_123456" data-name="#123456" class="cls-2" transform="translate(41.922 99.876) scale(0.432 0.432)">#123456</text>
+      <circle id="橢圓_2_拷貝_6" data-name="橢圓 2 拷貝 6" class="cls-1" cx="108.453" cy="66.785" r="14.641"/>
+      <text id="_123456-2" data-name="#123456" class="cls-2" transform="translate(108.923 99.876) scale(0.432 0.432)">#123456</text>
+      <text id="主色" class="cls-2" transform="translate(41.922 42.363) scale(0.432 0.432)">主色</text>
+    </g>
+    <g id="輔助色">
+      <circle id="橢圓_2-2" data-name="橢圓 2" class="cls-1" cx="181.453" cy="66.785" r="14.641"/>
+      <text id="_123456-3" data-name="#123456" class="cls-2" transform="translate(181.922 99.876) scale(0.432 0.432)">#123456</text>
+      <circle id="橢圓_2_拷貝_6-2" data-name="橢圓 2 拷貝 6" class="cls-1" cx="248.454" cy="66.785" r="14.641"/>
+      <text id="_123456-4" data-name="#123456" class="cls-2" transform="translate(248.923 99.876) scale(0.432 0.432)">#123456</text>
+      <text id="輔助色-2" data-name="輔助色" class="cls-2" transform="translate(181.922 42.363) scale(0.432 0.432)">輔助色</text>
+    </g>
+  </g>
+  <g id="Title">
+    <circle id="橢圓_1" data-name="橢圓 1" class="cls-3" cx="8.5" cy="8.5" r="8"/>
+    <path id="矩形_4" data-name="矩形 4" class="cls-4" d="M280.557,2694.81l-4.549,5.31-4.549-5.31" transform="translate(-267.5 -2687.5)"/>
+    <text id="色彩選擇" class="cls-5" transform="translate(51.3 13.555) scale(0.575 0.574)">色彩選擇</text>
+  </g>
+</svg>
